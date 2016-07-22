@@ -9,6 +9,11 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube",
-  "hubot-bitcoin"
+  "hubot-bitcoin",
+  "hubot-ascii-art",
+  "hubot-meme",
+  "hubot-ascii-art",
+  "hubot-coin",
+  "hubot-domainr",
+  "hubot-swagtrade"
 ]
